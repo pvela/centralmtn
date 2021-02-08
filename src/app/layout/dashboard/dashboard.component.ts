@@ -30,7 +30,7 @@ export class DashboardComponent implements OnInit {
             }
         );
 
-        this.alerts.push(
+        /*this.alerts.push(
             {
                 id: 1,
                 type: 'success',
@@ -47,7 +47,7 @@ export class DashboardComponent implements OnInit {
                 consectetur velit culpa molestias dignissimos
                 voluptatum veritatis quod aliquam! Rerum placeat necessitatibus, vitae dolorum`
             }
-        );
+        );*/
     }
 
     ngOnInit() {}
