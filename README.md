@@ -2,15 +2,13 @@
 
 Powered by [StartAngular](http://startangular.com/) & [StrapUI](http://strapui.com/)
 
-## [SB Admin Material version](https://github.com/start-javascript/sb-admin-material)
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
 
 ### Introduction
 
 Provides fast, reliable and extensible starter for the development of Angular projects.
 
-`Central Mountaini` provides the following features:
+`Central Mountain` provides the following features:
 
 -   Superfluid integration
 
